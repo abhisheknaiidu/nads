@@ -50,7 +50,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM. | WerWolv | 6428 |
+| 1 |  [ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM. | WerWolv | 6436 |
 | 2 |  [dsa](https://github.com/abhisheknaiidu/dsa) | My Codes and Solutions to coding interview problems on LeetCode, AlgoExpert, Educative and other interview preparation websites | abhisheknaiidu | 24 |
 | 3 |  [30-seconds-of-cpp](https://github.com/Bhupesh-V/30-seconds-of-cpp) | 30 Seconds of C++ (STL in C++). Read More about 30C++ here 👉 | Bhupesh-V | 766 |
 
@@ -65,7 +65,7 @@
 | 4 |  [css-effects-snippets](https://github.com/emilkowalski/css-effects-snippets) | ☁️ A collection of CSS effects made with Vue.js. | emilkowalski | 1460 |
 | 5 |  [bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io) | Third iteration of my personal site built with Jekyll | bchiang7 | 356 |
 | 6 |  [To-Do-List](https://github.com/ritiknagdeve/To-Do-List) | A simple to-do-list web app using HTML, CSS (Gradient styling), JavaScript(DOM manipulation). | ritiknagdeve | 1 |
-| 7 |  [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | animate-css | 68715 |
+| 7 |  [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | animate-css | 68716 |
 | 8 |  [98.css](https://github.com/jdan/98.css) | A design system for building faithful recreations of old UIs | jdan | 5440 |
 | 9 |  [css.gg](https://github.com/astrit/css.gg) | 700+ Pure CSS, SVG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API | astrit | 6666 |
 | 10 |  [SpinThatShit](https://github.com/MatejKustec/SpinThatShit) | A set of SCSS mixins for single element loaders and spinners | MatejKustec | 1454 |
@@ -77,27 +77,27 @@
 ## Clojure
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 53017 |
+| 1 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 53030 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Dart
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [BeThriftyToday](https://github.com/AmruthPillai/BeThriftyToday) | A simple and secure money manager that keeps you financially vigilant. | AmruthPillai | 78 |
+| 1 |  [BeThriftyToday](https://github.com/AmruthPillai/BeThriftyToday) | A simple and secure money manager that keeps you financially vigilant. | AmruthPillai | 79 |
 | 2 |  [this-is-us-Flutter](https://github.com/sehejjain/this-is-us-Flutter) | A Volunteer Match system created using Flutter and Firebase. | sehejjain | 3 |
 | 3 |  [Quester](https://github.com/Fuzzy-Spork/Quester) |  | Fuzzy-Spork | 3 |
-| 4 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | flutter | 109854 |
+| 4 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | flutter | 109871 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | nektos | 9782 |
-| 2 |  [bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | charmbracelet | 3873 |
-| 3 |  [glow](https://github.com/charmbracelet/glow) | Render markdown on the CLI, with pizzazz! 💅🏻 | charmbracelet | 5789 |
-| 4 |  [cli](https://github.com/cli/cli) | GitHub’s official command line tool | cli | 20846 |
+| 1 |  [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | nektos | 9789 |
+| 2 |  [bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | charmbracelet | 3875 |
+| 3 |  [glow](https://github.com/charmbracelet/glow) | Render markdown on the CLI, with pizzazz! 💅🏻 | charmbracelet | 5793 |
+| 4 |  [cli](https://github.com/cli/cli) | GitHub’s official command line tool | cli | 20849 |
 | 5 |  [berty](https://github.com/berty/berty) | Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network | berty | 661 |
 
 **[⬆ Back to Index](#-contents)**
@@ -106,9 +106,9 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Zen-lofi-beats-player](https://github.com/vaishnavme/Zen-lofi-beats-player) | Music Player built with Vanilla Javascript | vaishnavme | 3 |
-| 2 |  [screenfull.js](https://github.com/sindresorhus/screenfull.js) | Simple wrapper for cross-browser usage of the JavaScript Fullscreen API | sindresorhus | 5860 |
-| 3 |  [typedoc](https://github.com/TypeStrong/typedoc) | Documentation generator for TypeScript projects. | TypeStrong | 4408 |
-| 4 |  [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. | h5bp | 47351 |
+| 2 |  [screenfull.js](https://github.com/sindresorhus/screenfull.js) | Simple wrapper for cross-browser usage of the JavaScript Fullscreen API | sindresorhus | 5861 |
+| 3 |  [typedoc](https://github.com/TypeStrong/typedoc) | Documentation generator for TypeScript projects. | TypeStrong | 4410 |
+| 4 |  [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. | h5bp | 47353 |
 | 5 |  [thinkspace](https://github.com/heiswayi/thinkspace) | Just another minimalist Jekyll theme which designed for technical writing blog. | heiswayi | 439 |
 | 6 |  [Cafeteria-Management](https://github.com/isha-git/Cafeteria-Management) | A Database Management Project to manage orders and bills at food courts using MySQL | isha-git | 4 |
 | 7 |  [Parallax](https://github.com/ritiknagdeve/Parallax) | A simple parallax-effect site using HTML and CSS. | ritiknagdeve | 1 |
@@ -121,31 +121,31 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [AarogyaSetu_Android](https://github.com/nic-delhi/AarogyaSetu_Android) | Aarogya Setu Android app native code | nic-delhi | 2793 |
-| 2 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 49385 |
+| 1 |  [AarogyaSetu_Android](https://github.com/nic-delhi/AarogyaSetu_Android) | Aarogya Setu Android app native code | nic-delhi | 2796 |
+| 2 |  [interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | kdn251 | 49391 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [server-components-demo](https://github.com/reactjs/server-components-demo) | Demo app of React Server Components. | reactjs | 2315 |
+| 1 |  [server-components-demo](https://github.com/reactjs/server-components-demo) | Demo app of React Server Components. | reactjs | 2327 |
 | 2 |  [workbox](https://github.com/GoogleChrome/workbox) | 📦 Workbox: JavaScript libraries for Progressive Web Apps | GoogleChrome | 9713 |
 | 3 |  [easy-canvas](https://github.com/Gitjinfeiyang/easy-canvas) | easy-canvas is a powerful tool helps us easy to layout with canvas. 使用render函数在canvas中创建文档流布局。Tag: 海报图、小程序朋友圈分享图。 | Gitjinfeiyang | 173 |
 | 4 |  [qiniu-webpack-plugin](https://github.com/zzetao/qiniu-webpack-plugin) | 🚀更棒棒的将 Webpack 编译后的文件上传到 七牛云存储 | zzetao | 19 |
-| 5 |  [leerob.io](https://github.com/leerob/leerob.io) | ✨  My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel. | leerob | 822 |
+| 5 |  [leerob.io](https://github.com/leerob/leerob.io) | ✨  My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel. | leerob | 829 |
 | 6 |  [pollyjs](https://github.com/Netflix/pollyjs) | Record, Replay, and Stub HTTP Interactions. | Netflix | 8780 |
-| 7 |  [notion-clone](https://github.com/konstantinmuenster/notion-clone) | Edit Notes like in Notion.so. Full-Stack App using React/Express. | konstantinmuenster | 1367 |
-| 8 |  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg for browser and node, powered by WebAssembly | ffmpegwasm | 3130 |
-| 9 |  [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) | Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap | webpack-contrib | 10575 |
-| 10 |  [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | pedroslopez | 1413 |
-| 11 |  [screenity](https://github.com/alyssaxuu/screenity) | The most powerful screen recorder &amp; annotation tool for Chrome 🎥 | alyssaxuu | 4661 |
+| 7 |  [notion-clone](https://github.com/konstantinmuenster/notion-clone) | Edit Notes like in Notion.so. Full-Stack App using React/Express. | konstantinmuenster | 1370 |
+| 8 |  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg for browser and node, powered by WebAssembly | ffmpegwasm | 3132 |
+| 9 |  [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) | Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap | webpack-contrib | 10576 |
+| 10 |  [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | pedroslopez | 1415 |
+| 11 |  [screenity](https://github.com/alyssaxuu/screenity) | The most powerful screen recorder &amp; annotation tool for Chrome 🎥 | alyssaxuu | 4665 |
 | 12 |  [chai-enzyme](https://github.com/producthunt/chai-enzyme) | Chai.js assertions and convenience functions for testing React Components with enzyme | producthunt | 787 |
 | 13 |  [github-stories](https://github.com/chidiwilliams/github-stories) | View stories on your GitHub dashboard | chidiwilliams | 225 |
-| 14 |  [lozad.js](https://github.com/ApoorvSaxena/lozad.js) | 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more | ApoorvSaxena | 6573 |
-| 15 |  [quill](https://github.com/quilljs/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility. | quilljs | 28518 |
+| 14 |  [lozad.js](https://github.com/ApoorvSaxena/lozad.js) | 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more | ApoorvSaxena | 6575 |
+| 15 |  [quill](https://github.com/quilljs/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility. | quilljs | 28521 |
 | 16 |  [cssauron](https://github.com/chrisdickinson/cssauron) | create matching selectors from css for your very own nested object hierarchy | chrisdickinson | 114 |
-| 17 |  [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | Vue drag-and-drop component based on Sortable.js | SortableJS | 13956 |
+| 17 |  [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | Vue drag-and-drop component based on Sortable.js | SortableJS | 13958 |
 | 18 |  [TinyColor](https://github.com/bgrins/TinyColor) | Fast, small color manipulation and conversion for JavaScript | bgrins | 3664 |
 | 19 |  [chroma.js](https://github.com/gka/chroma.js) | JavaScript library for all kinds of color manipulations | gka | 7555 |
 | 20 |  [jellySwitch](https://github.com/akhil0001/jellySwitch) | Jellified Light weight switch web component built on vanilla javascript | akhil0001 | 15 |
@@ -153,39 +153,39 @@
 | 22 |  [github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) | GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews. | arturssmirnovs | 308 |
 | 23 |  [waypoints](https://github.com/imakewebthings/waypoints) | Waypoints is a library that makes it easy to execute a function whenever you scroll to an element. | imakewebthings | 10181 |
 | 24 |  [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) | Adds syntax highlighting for html inside of JavaScript and TypeScript tagged template strings | mjbvz | 251 |
-| 25 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 39393 |
+| 25 |  [yarn](https://github.com/yarnpkg/yarn) | 📦🐈 Fast, reliable, and secure dependency management. | yarnpkg | 39394 |
 | 26 |  [googleDictionaryAPI](https://github.com/meetDeveloper/googleDictionaryAPI) | Google does not provide Google Dictionary API so I created one. | meetDeveloper | 448 |
 | 27 |  [Dictionary-extension](https://github.com/krv5vignesh/Dictionary-extension) | Firefox WebExtension - English Popup Dictionary | krv5vignesh | 37 |
-| 28 |  [Advanced-React](https://github.com/wesbos/Advanced-React) | Starter Files and Solutions for Full Stack Advanced React and GraphQL | wesbos | 2704 |
+| 28 |  [Advanced-React](https://github.com/wesbos/Advanced-React) | Starter Files and Solutions for Full Stack Advanced React and GraphQL | wesbos | 2705 |
 | 29 |  [dotfiles](https://github.com/wesbos/dotfiles) | Hey wes what settings do you use? | wesbos | 1023 |
 | 30 |  [winXP](https://github.com/ShizukuIchi/winXP) | 🏁 Web based Windows XP desktop recreation. | ShizukuIchi | 4316 |
 | 31 |  [fullcalendar-vue](https://github.com/fullcalendar/fullcalendar-vue) | An official Vue component for FullCalendar | fullcalendar | 749 |
 | 32 |  [konva](https://github.com/konvajs/konva) | Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. | konvajs | 5734 |
 | 33 |  [react-pwa](https://github.com/Atyantik/react-pwa) | An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience. | Atyantik | 2368 |
 | 34 |  [nsfwjs](https://github.com/infinitered/nsfwjs) | NSFW detection on the client-side via TensorFlow.js | infinitered | 4442 |
-| 35 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open source codebase and curriculum. Learn to code at home. | freeCodeCamp | 318141 |
+| 35 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open source codebase and curriculum. Learn to code at home. | freeCodeCamp | 318150 |
 | 36 |  [tabbable](https://github.com/focus-trap/tabbable) | Find descendants of a DOM node that are in the tab order | focus-trap | 198 |
-| 37 |  [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 146134 |
+| 37 |  [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 146144 |
 | 38 |  [zethus](https://github.com/rapyuta-robotics/zethus) | Realtime robot data visualization in the browser | rapyuta-robotics | 68 |
-| 39 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 161378 |
-| 40 |  [emotion](https://github.com/emotion-js/emotion) | 👩‍🎤 CSS-in-JS library designed for high performance style composition | emotion-js | 12211 |
+| 39 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 161402 |
+| 40 |  [emotion](https://github.com/emotion-js/emotion) | 👩‍🎤 CSS-in-JS library designed for high performance style composition | emotion-js | 12213 |
 | 41 |  [react-otp-input](https://github.com/devfolioco/react-otp-input) | :heavy_check_mark:  OTP Input Component for React | devfolioco | 155 |
 | 42 |  [auto-badger](https://github.com/technikhil314/auto-badger) | Add badges to your markdown in 2 seconds | technikhil314 | 2 |
 | 43 |  [vuejs.org](https://github.com/vuejs/vuejs.org) | 📄 The official documentation site for Vue.js. | vuejs | 4763 |
-| 44 |  [vue](https://github.com/vuejs/vue) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | vuejs | 177396 |
+| 44 |  [vue](https://github.com/vuejs/vue) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | vuejs | 177419 |
 | 45 |  [class-karona](https://github.com/abhisheknaiidu/class-karona) |  | abhisheknaiidu | 5 |
 | 46 |  [hacktoberfest2020](https://github.com/abhisheknaiidu/hacktoberfest2020) | Submit Just 4 PRs to earn SWAGS 🔥 | abhisheknaiidu | 43 |
 | 47 |  [supercluster](https://github.com/mapbox/supercluster) | A very fast geospatial point clustering library for browsers and Node. | mapbox | 1199 |
 | 48 |  [react-player](https://github.com/cookpete/react-player) | A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion | cookpete | 4770 |
 | 49 |  [todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) | 🚧 Updates README with Todoist Stats of a user | abhisheknaiidu | 35 |
 | 50 |  [tailwindcss-dark-mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) | 🌚 A Tailwind CSS plugin that adds variants for dark mode | ChanceArthur | 631 |
-| 51 |  [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 🕸  No-bullshit answers to the famous h5bp &#34;Front-end Job Interview Questions&#34; | yangshun | 26960 |
+| 51 |  [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 🕸  No-bullshit answers to the famous h5bp &#34;Front-end Job Interview Questions&#34; | yangshun | 26965 |
 | 52 |  [handwritten.js](https://github.com/alias-rahil/handwritten.js) | Convert typed text to realistic handwriting! | alias-rahil | 1758 |
 | 53 |  [CoverView](https://github.com/rutikwankhade/CoverView) | 🛠 Create awesome cover images for your blog posts quickly. | rutikwankhade | 129 |
-| 54 |  [stegcloak](https://github.com/KuroLabs/stegcloak) | Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐ | KuroLabs | 1986 |
+| 54 |  [stegcloak](https://github.com/KuroLabs/stegcloak) | Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐ | KuroLabs | 1985 |
 | 55 |  [focus-trap](https://github.com/focus-trap/focus-trap) | Trap focus within a DOM node. | focus-trap | 578 |
-| 56 |  [react-table](https://github.com/tannerlinsley/react-table) | ⚛️ Hooks for building fast and extendable tables and datagrids for React | tannerlinsley | 13163 |
-| 57 |  [password-manager-resources](https://github.com/apple/password-manager-resources) | A place for creators and users of password managers to collaborate on resources to make password management better. | apple | 3065 |
+| 56 |  [react-table](https://github.com/tannerlinsley/react-table) | ⚛️ Hooks for building fast and extendable tables and datagrids for React | tannerlinsley | 13164 |
+| 57 |  [password-manager-resources](https://github.com/apple/password-manager-resources) | A place for creators and users of password managers to collaborate on resources to make password management better. | apple | 3066 |
 | 58 |  [atomically](https://github.com/fabiospampinato/atomically) | Write files atomically and reliably. | fabiospampinato | 66 |
 | 59 |  [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) | Create skeleton screens that automatically adapt to your app! | dvtng | 1867 |
 | 60 |  [vue-konva](https://github.com/konvajs/vue-konva) | Vue &amp; Canvas - JavaScript library for drawing complex canvas graphics using Vue. | konvajs | 652 |
@@ -193,92 +193,92 @@
 | 62 |  [vue-image-crop-upload](https://github.com/dai-siki/vue-image-crop-upload) | A beautiful vue component for image cropping and uploading. （vue图片剪裁上传组件） | dai-siki | 1700 |
 | 63 |  [readme-jokes](https://github.com/ABSphreak/readme-jokes) | Jokes for your GitHub READMEs | ABSphreak | 65 |
 | 64 |  [gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) | Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI. | LekoArts | 1048 |
-| 65 |  [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) | Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork | popcorn-official | 5401 |
+| 65 |  [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) | Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork | popcorn-official | 5404 |
 | 66 |  [javascript-action](https://github.com/actions/javascript-action) | Create a JavaScript Action with tests, linting, workflow, publishing, and versioning | actions | 399 |
 | 67 |  [mevn-cli](https://github.com/madlabsinc/mevn-cli) | Light speed setup for MEVN(Mongo Express Vue Node)  Apps | madlabsinc | 659 |
 | 68 |  [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) | A simple vue2 binding to clipboard.js | Inndy | 1431 |
 | 69 |  [mocha](https://github.com/mochajs/mocha) | ☕️ simple, flexible, fun javascript test framework for node.js &amp; the browser | mochajs | 20118 |
-| 70 |  [jitsi-meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | jitsi | 14867 |
-| 71 |  [p2pt](https://github.com/subins2000/p2pt) | P2PT: Easy WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast &amp; easy ! 🚀⭐ | subins2000 | 146 |
+| 70 |  [jitsi-meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | jitsi | 14869 |
+| 71 |  [p2pt](https://github.com/subins2000/p2pt) | P2PT: Easy WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast &amp; easy ! 🚀⭐ | subins2000 | 147 |
 | 72 |  [BayJDO](https://github.com/aswinshenoy/BayJDO) | A Fast, Simple &amp; Secure Way to Transfer Files between Devices | aswinshenoy | 44 |
-| 73 |  [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. | getify | 13725 |
-| 74 |  [react-grid-layout](https://github.com/STRML/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | STRML | 12559 |
-| 75 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 47428 |
-| 76 |  [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️  Companies that don&#39;t have a broken hiring process | poteto | 19110 |
+| 73 |  [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. | getify | 13727 |
+| 74 |  [react-grid-layout](https://github.com/STRML/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | STRML | 12561 |
+| 75 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 47433 |
+| 76 |  [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️  Companies that don&#39;t have a broken hiring process | poteto | 19114 |
 | 77 |  [vue-loading-skeleton](https://github.com/kitwon/vue-loading-skeleton) | Vue skeleton component, automatically adapt your app. | kitwon | 53 |
 | 78 |  [usefonts](https://github.com/goelaakash79/usefonts) | A tool to help designers and developers select their perfect fonts. It uses Google Fonts API to fetch the fonts. | goelaakash79 | 28 |
 | 79 |  [abell](https://github.com/abelljs/abell) | a Static-Site-Generator for JavaScript Developers. Build fast, vanilla websites in the syntax you almost already know 🌀 | abelljs | 189 |
 | 80 |  [trash](https://github.com/sindresorhus/trash) | Move files and directories to the trash | sindresorhus | 2086 |
-| 81 |  [htm](https://github.com/developit/htm) | Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. | developit | 6307 |
+| 81 |  [htm](https://github.com/developit/htm) | Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. | developit | 6308 |
 | 82 |  [redaxios](https://github.com/developit/redaxios) | The Axios API, as an 800 byte Fetch wrapper. | developit | 2428 |
 | 83 |  [spotify-profile](https://github.com/bchiang7/spotify-profile) | A web app for visualizing personalized Spotify data | bchiang7 | 225 |
-| 84 |  [developerFolio](https://github.com/saadpasta/developerFolio) | 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. | saadpasta | 1504 |
-| 85 |  [v4](https://github.com/bchiang7/v4) | Fourth iteration of my personal website | bchiang7 | 2443 |
+| 84 |  [developerFolio](https://github.com/saadpasta/developerFolio) | 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. | saadpasta | 1505 |
+| 85 |  [v4](https://github.com/bchiang7/v4) | Fourth iteration of my personal website | bchiang7 | 2446 |
 | 86 |  [gifcap](https://github.com/joaomoreno/gifcap) | Capture your screen to a GIF in your browser | joaomoreno | 422 |
 | 87 |  [sample-app-web](https://github.com/zoom/sample-app-web) | Zoom Web SDK Sample App | zoom | 410 |
-| 88 |  [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed | gautamkrishnar | 805 |
-| 89 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 48390 |
+| 88 |  [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed | gautamkrishnar | 806 |
+| 89 |  [gatsby](https://github.com/gatsbyjs/gatsby) | Build blazing fast, modern apps and websites with React | gatsbyjs | 48399 |
 | 90 |  [nothing-private](https://github.com/gautamkrishnar/nothing-private) | Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you&#39;re wrong. | gautamkrishnar | 1316 |
-| 91 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 40346 |
-| 92 |  [app](https://github.com/all-contributors/app) | 🤖 A GitHub App to automate acknowledging contributors to your open source projects | all-contributors | 347 |
+| 91 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 40349 |
+| 92 |  [app](https://github.com/all-contributors/app) | 🤖 A GitHub App to automate acknowledging contributors to your open source projects | all-contributors | 348 |
 | 93 |  [ResumeOnTheWeb-Gatsby](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby) | Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web! | AmruthPillai | 220 |
-| 94 |  [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! | AmruthPillai | 2314 |
+| 94 |  [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! | AmruthPillai | 2316 |
 | 95 |  [MOVIE-HUB](https://github.com/ritiknagdeve/MOVIE-HUB) | A web app build with Bootstrap, manual CSS and JavaScript (JQuery) using axios client for making requests and TMDb API to fetch Movie data. | ritiknagdeve | 1 |
-| 96 |  [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | rahuldkjain | 3196 |
-| 97 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 16266 |
-| 98 |  [leetcode](https://github.com/azl397985856/leetcode) | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | azl397985856 | 38929 |
+| 96 |  [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | rahuldkjain | 3199 |
+| 97 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 16294 |
+| 98 |  [leetcode](https://github.com/azl397985856/leetcode) | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | azl397985856 | 38933 |
 | 99 |  [a-pop](https://github.com/abhisheknaiidu/a-pop) | 🎶 HD Music Streaming Web App | abhisheknaiidu | 52 |
-| 100 |  [material-ui](https://github.com/mui-org/material-ui) | React components for faster and simpler web development. Build your own design system, or start with Material Design. | mui-org | 63919 |
+| 100 |  [material-ui](https://github.com/mui-org/material-ui) | React components for faster and simpler web development. Build your own design system, or start with Material Design. | mui-org | 63927 |
 | 101 |  [washOS](https://github.com/charliegerard/washOS) | Automatic detection of water running to trigger a countdown in the browser | charliegerard | 136 |
 | 102 |  [waka-box](https://github.com/matchai/waka-box) | 📊 Update a pinned gist to contain your weekly WakaTime stats | matchai | 791 |
 | 103 |  [VisuAlgo-List](https://github.com/yulonglong/VisuAlgo-List) | (Completed). Web application to visualize data structures and algorithms through animation. | yulonglong | 100 |
 | 104 |  [open-sauced](https://github.com/open-sauced/open-sauced) | 🍕  This is a project to identify your next open source contribution. | open-sauced | 328 |
 | 105 |  [vocabulary](https://github.com/creativecommons/vocabulary) | A cohesive design system &amp; Vue component library to unify the web-facing Creative Commons | creativecommons | 50 |
-| 106 |  [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | GoogleChrome | 3949 |
+| 106 |  [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | GoogleChrome | 3950 |
 | 107 |  [The-BaIG-restaurant](https://github.com/mazharalibaig/The-BaIG-restaurant) | A Menu App made using React and Redux | mazharalibaig | 2 |
 | 108 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 37745 |
-| 109 |  [GSAP](https://github.com/greensock/GSAP) | GreenSock&#39;s GSAP JavaScript animation library (including Draggable). | greensock | 11813 |
+| 109 |  [GSAP](https://github.com/greensock/GSAP) | GreenSock&#39;s GSAP JavaScript animation library (including Draggable). | greensock | 11814 |
 | 110 |  [todoist-linux](https://github.com/KryDos/todoist-linux) | The Linux wrapper for Todoist web version. Unofficial! | KryDos | 680 |
-| 111 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 66747 |
-| 112 |  [saber](https://github.com/saberland/saber) | ()==[:::::::::::::&amp;gt; Build static sites in Vue.js, without the hassle | saberland | 2034 |
+| 111 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 66748 |
+| 112 |  [saber](https://github.com/saberland/saber) | ()==[:::::::::::::&amp;gt; Build static sites in Vue.js, without the hassle | saberland | 2035 |
 | 113 |  [quarantine-days](https://github.com/abhisheknaiidu/quarantine-days) | Check it out at https://quarantine-days.now.sh/ | abhisheknaiidu | 10 |
-| 114 |  [whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) | Reverse engineering WhatsApp Web. | sigalor | 4791 |
-| 115 |  [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook | amejiarosario | 5554 |
+| 114 |  [whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) | Reverse engineering WhatsApp Web. | sigalor | 4792 |
+| 115 |  [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook | amejiarosario | 5556 |
 | 116 |  [ar-facedoodle](https://github.com/cyrildiagne/ar-facedoodle) | Doodle AR masks right from the browser with tensorflow.js | cyrildiagne | 454 |
 | 117 |  [AlgoCasts-JS](https://github.com/yogain123/AlgoCasts-JS) | DSA in JavaScript   ✅ | yogain123 | 189 |
-| 118 |  [tabler-icons](https://github.com/tabler/tabler-icons) | A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects. | tabler | 9576 |
+| 118 |  [tabler-icons](https://github.com/tabler/tabler-icons) | A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects. | tabler | 9579 |
 | 119 |  [elevator.js](https://github.com/tholman/elevator.js) | Finally, a &#34;back to top&#34; button that behaves like a real elevator. | tholman | 6240 |
-| 120 |  [css-doodle](https://github.com/css-doodle/css-doodle) | 🎨 A web component for drawing patterns with CSS. | css-doodle | 3226 |
-| 121 |  [web-skills](https://github.com/andreasbm/web-skills) | A visual overview of useful skills to learn as a web developer | andreasbm | 3442 |
+| 120 |  [css-doodle](https://github.com/css-doodle/css-doodle) | 🎨 A web component for drawing patterns with CSS. | css-doodle | 3227 |
+| 121 |  [web-skills](https://github.com/andreasbm/web-skills) | A visual overview of useful skills to learn as a web developer | andreasbm | 3445 |
 | 122 |  [corona-frontend](https://github.com/theleadio/corona-frontend) |  | theleadio | 45 |
 | 123 |  [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) | 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus) | soroushchehresa | 1357 |
-| 124 |  [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India | covid19india | 4988 |
+| 124 |  [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India | covid19india | 4992 |
 | 125 |  [covid19](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily | pomber | 1162 |
 | 126 |  [covidAPI](https://github.com/javieraviles/covidAPI) | Coronavirus API for Current cases by country COVID-19 | javieraviles | 577 |
 | 127 |  [API](https://github.com/disease-sh/API) | API for Current cases and more stuff about COVID-19 and Influenza | disease-sh | 2150 |
-| 128 |  [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️ Streaming torrent client for the web | webtorrent | 23073 |
+| 128 |  [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️ Streaming torrent client for the web | webtorrent | 23076 |
 | 129 |  [vue-express-mongo-boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) | :star: MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS | icebob | 2716 |
 | 130 |  [notification-logger](https://github.com/hkirat/notification-logger) | Desktop notification for your console Logs | hkirat | 964 |
-| 131 |  [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 concepts every JavaScript developer should know. | leonardomso | 34299 |
+| 131 |  [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 concepts every JavaScript developer should know. | leonardomso | 34300 |
 | 132 |  [ai-lab](https://github.com/tlkh/ai-lab) | All-in-one AI container for rapid prototyping | tlkh | 403 |
 | 133 |  [zuck.js](https://github.com/ramon82/zuck.js) | A javascript library that lets you add stories EVERYWHERE. | ramon82 | 3160 |
 | 134 |  [RESToreManager](https://github.com/ajwad-shaikh/RESToreManager) | A RESTful API for managing product catalogs with CRUD and filter search features | ajwad-shaikh | 1 |
-| 135 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 51287 |
+| 135 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 51295 |
 | 136 |  [react-redux-form](https://github.com/davidkpiano/react-redux-form) | Create forms easily in React with Redux. | davidkpiano | 2098 |
-| 137 |  [readme-md-generator](https://github.com/kefranabg/readme-md-generator) | 📄 CLI that generates beautiful README.md files | kefranabg | 8021 |
-| 138 |  [hackathon-starter](https://github.com/sahat/hackathon-starter) | A boilerplate for Node.js web applications | sahat | 31257 |
-| 139 |  [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | alvarotrigo | 31494 |
+| 137 |  [readme-md-generator](https://github.com/kefranabg/readme-md-generator) | 📄 CLI that generates beautiful README.md files | kefranabg | 8022 |
+| 138 |  [hackathon-starter](https://github.com/sahat/hackathon-starter) | A boilerplate for Node.js web applications | sahat | 31256 |
+| 139 |  [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | alvarotrigo | 31495 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Jupyter Notebook
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Algorithms-and-Coding-Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews) | Open source content from a book in progress, Hands-on Algorithmic Problem Solving | liyin2015 | 1120 |
+| 1 |  [Algorithms-and-Coding-Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews) | Open source content from a book in progress, Hands-on Algorithmic Problem Solving | liyin2015 | 1121 |
 | 2 |  [RainfallPrediction-LeadingIndiaAI](https://github.com/lioneltarun10/RainfallPrediction-LeadingIndiaAI) |  | lioneltarun10 | 1 |
-| 3 |  [fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks | fastai | 11112 |
+| 3 |  [fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks | fastai | 11117 |
 | 4 |  [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) | Sample code for Channel 9 Python for Beginners course | microsoft | 7004 |
-| 5 |  [python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) | The &#34;Python Machine Learning (3rd edition)&#34; book code repository | rasbt | 1825 |
+| 5 |  [python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) | The &#34;Python Machine Learning (3rd edition)&#34; book code repository | rasbt | 1826 |
 | 6 |  [Practical-Deep-Learning-for-Coders-2.0](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0) | Notebooks for the &#34;A walk with fastai2&#34; Study Group and Lecture Series | muellerzr | 616 |
 
 **[⬆ Back to Index](#-contents)**
@@ -300,44 +300,44 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [shortski](https://github.com/abhisheknaiidu/shortski) | Mac OS Keyboard substitution&#39;s for most useful thing&#39;s | abhisheknaiidu | 10 |
+| 1 |  [shortski](https://github.com/abhisheknaiidu/shortski) | Mac OS Keyboard substitution&#39;s for most useful thing&#39;s | abhisheknaiidu | 11 |
 | 2 |  [welcome](https://github.com/behaviorbot/welcome) | A probot app that welcome new users | behaviorbot | 128 |
-| 3 |  [100-days-of-code](https://github.com/kallaway/100-days-of-code) | Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) | kallaway | 4646 |
+| 3 |  [100-days-of-code](https://github.com/kallaway/100-days-of-code) | Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) | kallaway | 4651 |
 | 4 |  [algorithm-illustrations](https://github.com/happygirlzt/algorithm-illustrations) | The illustrations from the YouTube channel: happygirlzt. | happygirlzt | 124 |
 | 5 |  [alfred-workflows](https://github.com/learn-anything/alfred-workflows) | Amazing Alfred Workflows | learn-anything | 1889 |
-| 6 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 131870 |
+| 6 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 131877 |
 | 7 |  [technical-writing-template](https://github.com/BolajiAyodeji/technical-writing-template) | A sample template for writing a technical article :unicorn: | BolajiAyodeji | 207 |
 | 8 |  [night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) | 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme | sdras | 2131 |
-| 9 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 40827 |
-| 10 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 15139 |
+| 9 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 40834 |
+| 10 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 15140 |
 | 11 |  [companies-using-vuejs-in-India](https://github.com/vuejs-in/companies-using-vuejs-in-India) | The list of companies who use Vue.js in India | vuejs-in | 20 |
 | 12 |  [icondrop](https://github.com/Iconscout/icondrop) | Get access to 2 million+ design resources right inside Adobe Xd, Figma, Sketch, Microsoft Office, G Suite and many more. | Iconscout | 170 |
-| 13 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 26876 |
-| 14 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 58080 |
+| 13 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 26887 |
+| 14 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 58087 |
 | 15 |  [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python | lukasz-madon | 19681 |
 | 16 |  [awesome](https://github.com/chartjs/awesome) | A curated list of awesome Chart.js resources and libraries | chartjs | 526 |
 | 17 |  [iiitdmj-companion-issues](https://github.com/Fuzzy-Spork/iiitdmj-companion-issues) |  | Fuzzy-Spork | 1 |
 | 18 |  [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) | A curated list about React Hooks | glauberfc | 917 |
-| 19 |  [archive-program](https://github.com/github/archive-program) | The GitHub Archive Program &amp; Arctic Code Vault | github | 2596 |
+| 19 |  [archive-program](https://github.com/github/archive-program) | The GitHub Archive Program &amp; Arctic Code Vault | github | 2597 |
 | 20 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 48 |
-| 21 |  [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) | Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js | aaronhma | 70 |
+| 21 |  [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) | Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js | aaronhma | 71 |
 | 22 |  [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) | ⭐️ A curated list of companies that offer their services for free to Open Source projects | zachflower | 443 |
-| 23 |  [tech-community-slacks](https://github.com/ladyleet/tech-community-slacks) | Here is a list of all the tech community slacks! | ladyleet | 722 |
+| 23 |  [tech-community-slacks](https://github.com/ladyleet/tech-community-slacks) | Here is a list of all the tech community slacks! | ladyleet | 724 |
 | 24 |  [abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu) | 👀 | abhisheknaiidu | 98 |
 | 25 |  [anuraghazra](https://github.com/anuraghazra/anuraghazra) |  | anuraghazra | 89 |
 | 26 |  [timburgan](https://github.com/timburgan/timburgan) |  | timburgan | 414 |
 | 27 |  [yg](https://github.com/yg/yg) | :octocat: GitHub Profile README | yg | 3 |
 | 28 |  [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) | 🐶 A curated list of Web Security materials and resources. | qazbnm456 | 5595 |
-| 29 |  [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects. | MunGell | 26882 |
-| 30 |  [Projects](https://github.com/karan/Projects) | :page_with_curl: A list of practical projects that anyone can solve in any programming language. | karan | 32106 |
+| 29 |  [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects. | MunGell | 26887 |
+| 30 |  [Projects](https://github.com/karan/Projects) | :page_with_curl: A list of practical projects that anyone can solve in any programming language. | karan | 32109 |
 | 31 |  [browser-2020](https://github.com/luruke/browser-2020) | Things you can do with a browser in 2020 ☕️ | luruke | 8047 |
-| 32 |  [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | sorrycc | 22199 |
-| 33 |  [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100 Days of ML Coding | Avik-Jain | 30770 |
+| 32 |  [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | sorrycc | 22202 |
+| 33 |  [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100 Days of ML Coding | Avik-Jain | 30774 |
 | 34 |  [ml5-data-and-models](https://github.com/ml5js/ml5-data-and-models) | Data sets and pre-trained models for ml5.js | ml5js | 93 |
-| 35 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about | mtdvio | 43323 |
-| 36 |  [web-development-2020-course-list](https://github.com/andrews1022/web-development-2020-course-list) | A list of Udemy courses from Brad Traversy&#39;s Web Development 2020 video | andrews1022 | 2115 |
+| 35 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about | mtdvio | 43325 |
+| 36 |  [web-development-2020-course-list](https://github.com/andrews1022/web-development-2020-course-list) | A list of Udemy courses from Brad Traversy&#39;s Web Development 2020 video | andrews1022 | 2114 |
 | 37 |  [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) | This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date. | sergtitov | 1457 |
-| 38 |  [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) | :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources | lnishan | 7329 |
+| 38 |  [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) | :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources | lnishan | 7333 |
 | 39 |  [free-tshirts-stickers-and-swag-for-developers](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers) | List of free tshirts, stickers and swags available for developers | Joonsang1994 | 609 |
 
 **[⬆ Back to Index](#-contents)**
@@ -345,7 +345,7 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [crater](https://github.com/bytefury/crater) | Free &amp; Open Source Invoice App for Freelancers &amp; Small Businesses | bytefury | 3562 |
+| 1 |  [crater](https://github.com/bytefury/crater) | Free &amp; Open Source Invoice App for Freelancers &amp; Small Businesses | bytefury | 3564 |
 | 2 |  [alfred-code-runner](https://github.com/zzetao/alfred-code-runner) | 🥳  JavaScript/PHP Code Runner | zzetao | 1 |
 | 3 |  [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README | DenverCoder1 | 32 |
 | 4 |  [alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) | 🎵🎩 Alfred workflow to control your Spotify library at your fingertips | vdesabou | 786 |
@@ -357,32 +357,32 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Depix](https://github.com/beurtschipper/Depix) | Recovers passwords from pixelized screenshots | beurtschipper | 13929 |
-| 2 |  [wakatime](https://github.com/wakatime/wakatime) | Command line interface used by all WakaTime text editor plugins. | wakatime | 1006 |
+| 1 |  [Depix](https://github.com/beurtschipper/Depix) | Recovers passwords from pixelized screenshots | beurtschipper | 13947 |
+| 2 |  [wakatime](https://github.com/wakatime/wakatime) | Command line interface used by all WakaTime text editor plugins. | wakatime | 1008 |
 | 3 |  [CloudNine](https://github.com/ajwad-shaikh/CloudNine) | Search for the clouds. | ajwad-shaikh | 8 |
-| 4 |  [Troop](https://github.com/Qirky/Troop) | Real-time Live Coding collaboration app | Qirky | 214 |
+| 4 |  [Troop](https://github.com/Qirky/Troop) | Real-time Live Coding collaboration app | Qirky | 215 |
 | 5 |  [notion-search-alfred-workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) | An Alfred workflow to search Notion with instant results | wrjlewis | 236 |
 | 6 |  [icalParser](https://github.com/GarryTheSquare-public/icalParser) | parses ical files and sends them to a notion page | GarryTheSquare-public | 1 |
-| 7 |  [Football](https://github.com/samswag/Football) |  | samswag | 9 |
+| 7 |  [Football](https://github.com/samswag/Football) |  | samswag | 10 |
 | 8 |  [fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews) | How on earth can I ever think of a solution like that in an interview?! | vinta | 404 |
 | 9 |  [WhatsApp-Chat-Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer) | WhatsApp Chat Analyzer is a WebApp and it can be used by anyone to analyze their chat. 😄 | pcsingh | 13 |
 | 10 |  [amazon-automation](https://github.com/yosh1/amazon-automation) | Script to make an automatic purchase on Amazon | yosh1 | 48 |
-| 11 |  [posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is developer-friendly, open-source product analytics. | PostHog | 3559 |
-| 12 |  [coding-interview-gym](https://github.com/partho-maple/coding-interview-gym) | leetcode.com , algoexpert.io solutions in python and swift | partho-maple | 405 |
+| 11 |  [posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is developer-friendly, open-source product analytics. | PostHog | 3561 |
+| 12 |  [coding-interview-gym](https://github.com/partho-maple/coding-interview-gym) | leetcode.com , algoexpert.io solutions in python and swift | partho-maple | 406 |
 | 13 |  [common-intern](https://github.com/harshibar/common-intern) | A selenium script to automatically apply to software engineering internships! | harshibar | 458 |
-| 14 |  [devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing &amp; development tools | devicons | 3011 |
+| 14 |  [devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing &amp; development tools | devicons | 3012 |
 | 15 |  [GROUN](https://github.com/pranay-ar/GROUN) | GROUN is an application that can be used to delete the spam related to lecture slides/notes present in our devices. | pranay-ar | 6 |
 | 16 |  [chanalyze](https://github.com/itzmeanjan/chanalyze) | A simple WhatsApp Chat Analyzer ( for both Private &amp; Group chats ), made with :heart: | itzmeanjan | 17 |
 | 17 |  [Real-time-price-compare](https://github.com/Shikhar0051/Real-time-price-compare) | Real time price compare | Shikhar0051 | 4 |
-| 18 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 116724 |
-| 19 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 106041 |
+| 18 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 116747 |
+| 19 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 106182 |
 | 20 |  [recursive](https://github.com/arrowtype/recursive) | Recursive Mono &amp; Sans is a variable font family for code &amp; UI, coming soon to Google Fonts | arrowtype | 1622 |
-| 21 |  [ObstructionRemoval](https://github.com/alex04072000/ObstructionRemoval) | [CVPR 2020] Learning to See Through Obstructions | alex04072000 | 899 |
+| 21 |  [ObstructionRemoval](https://github.com/alex04072000/ObstructionRemoval) | [CVPR 2020] Learning to See Through Obstructions | alex04072000 | 900 |
 | 22 |  [memer-action](https://github.com/Bhupesh-V/memer-action) | A GitHub Action for Programmer Memes xD | Bhupesh-V | 7 |
 | 23 |  [Hairstyle-Classifier](https://github.com/pranay-ar/Hairstyle-Classifier) | Hairstyle Classifier is a Deep Learning model that uses Transfer Learning techniques to predict different hairstyles of women. | pranay-ar | 1 |
-| 24 |  [transformers](https://github.com/huggingface/transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | huggingface | 38700 |
-| 25 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. | iperov | 22580 |
-| 26 |  [Chatistics](https://github.com/MasterScrat/Chatistics) | 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames. | MasterScrat | 795 |
+| 24 |  [transformers](https://github.com/huggingface/transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | huggingface | 38718 |
+| 25 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. | iperov | 22584 |
+| 26 |  [Chatistics](https://github.com/MasterScrat/Chatistics) | 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames. | MasterScrat | 796 |
 | 27 |  [Brain-MRI-Segmentation](https://github.com/vaibhavshukla182/Brain-MRI-Segmentation) | Smart India Hackathon 2019 project given by the Department of Atomic Energy | vaibhavshukla182 | 27 |
 | 28 |  [GSoC-Organisation-Scraper](https://github.com/rohithasrk/GSoC-Organisation-Scraper) | Scrape GSoC organisations using a single script. | rohithasrk | 120 |
 | 29 |  [QRCodeGenerator](https://github.com/hrishi84/QRCodeGenerator) | QR code generator using pyqrcode | hrishi84 | 1 |
@@ -399,12 +399,12 @@
 ## Ruby
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS | Homebrew | 8584 |
-| 2 |  [forem](https://github.com/forem/forem) | For empowering community 🌱 | forem | 15747 |
+| 1 |  [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS | Homebrew | 8585 |
+| 2 |  [forem](https://github.com/forem/forem) | For empowering community 🌱 | forem | 15746 |
 | 3 |  [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) | Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all. | crweiner | 1198 |
-| 4 |  [rouge](https://github.com/rouge-ruby/rouge) | A pure Ruby code highlighter that is compatible with Pygments | rouge-ruby | 2885 |
-| 5 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 41879 |
-| 6 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 25071 |
+| 4 |  [rouge](https://github.com/rouge-ruby/rouge) | A pure Ruby code highlighter that is compatible with Pygments | rouge-ruby | 2886 |
+| 5 |  [jekyll](https://github.com/jekyll/jekyll) | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | jekyll | 41884 |
+| 6 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 25077 |
 | 7 |  [awesome-black-developers](https://github.com/bdougie/awesome-black-developers) | Amplifying the voices of Black developers in open source because #BlackLivesMatter ✊🏾 | bdougie | 86 |
 
 **[⬆ Back to Index](#-contents)**
@@ -430,9 +430,9 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Pock](https://github.com/pigigaldi/Pock) | Display macOS Dock in Touch Bar | pigigaldi | 8498 |
-| 2 |  [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | rxhanson | 7243 |
-| 3 |  [Gifski](https://github.com/sindresorhus/Gifski) | 🌈 Convert videos to high-quality GIFs on your Mac | sindresorhus | 5005 |
+| 1 |  [Pock](https://github.com/pigigaldi/Pock) | Display macOS Dock in Touch Bar | pigigaldi | 8499 |
+| 2 |  [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | rxhanson | 7247 |
+| 3 |  [Gifski](https://github.com/sindresorhus/Gifski) | 🌈 Convert videos to high-quality GIFs on your Mac | sindresorhus | 5004 |
 | 4 |  [touch-bar-emojis](https://github.com/gabriellorin/touch-bar-emojis) | Touch Bar Emojis is a small app (written in Swift) which displays a permanent emoji input view for any app. | gabriellorin | 159 |
 
 **[⬆ Back to Index](#-contents)**
@@ -449,35 +449,35 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [caprine](https://github.com/sindresorhus/caprine) | Elegant Facebook Messenger desktop app | sindresorhus | 5699 |
-| 2 |  [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) | Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines. | onderceylan | 1283 |
-| 3 |  [react-icons](https://github.com/react-icons/react-icons) | svg react icons of popular icon packs | react-icons | 5591 |
-| 4 |  [grammarly](https://github.com/znck/grammarly) | Unofficial Grammarly VS Code Extension | znck | 508 |
-| 5 |  [CrewLink](https://github.com/ottomated/CrewLink) | Free, open, Among Us Proximity Chat | ottomated | 2095 |
-| 6 |  [mikro-orm](https://github.com/mikro-orm/mikro-orm) | TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases. | mikro-orm | 2331 |
+| 2 |  [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) | Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines. | onderceylan | 1285 |
+| 3 |  [react-icons](https://github.com/react-icons/react-icons) | svg react icons of popular icon packs | react-icons | 5593 |
+| 4 |  [grammarly](https://github.com/znck/grammarly) | Unofficial Grammarly VS Code Extension | znck | 507 |
+| 5 |  [CrewLink](https://github.com/ottomated/CrewLink) | Free, open, Among Us Proximity Chat | ottomated | 2105 |
+| 6 |  [mikro-orm](https://github.com/mikro-orm/mikro-orm) | TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases. | mikro-orm | 2332 |
 | 7 |  [marshall-map](https://github.com/zackkrida/marshall-map) | Project Map application for Marshall Building and Remodeling. | zackkrida | 2 |
 | 8 |  [vscode-stories](https://github.com/ide-stories/vscode-stories) | Stories for VSCode | ide-stories | 1903 |
 | 9 |  [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) | Zero-config PWA for Vite | antfu | 120 |
-| 10 |  [lit-html](https://github.com/Polymer/lit-html) | An efficient, expressive, extensible HTML templating library for JavaScript. | Polymer | 6910 |
+| 10 |  [lit-html](https://github.com/Polymer/lit-html) | An efficient, expressive, extensible HTML templating library for JavaScript. | Polymer | 6912 |
 | 11 |  [composition-api](https://github.com/vuejs/composition-api) | Composition API plugin for Vue 2 | vuejs | 2874 |
 | 12 |  [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) | 🌡 A highly customized slider component | NightCatSama | 1942 |
-| 13 |  [vetur](https://github.com/vuejs/vetur) | Vue tooling for VS Code. | vuejs | 4848 |
+| 13 |  [vetur](https://github.com/vuejs/vetur) | Vue tooling for VS Code. | vuejs | 4850 |
 | 14 |  [nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) | 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS. | nsfw-filter | 924 |
-| 15 |  [vitesse](https://github.com/antfu/vitesse) | 🏕 Opinionated Vite Starter Template | antfu | 337 |
-| 16 |  [pnpm](https://github.com/pnpm/pnpm) | 📦🚀 Fast, disk space efficient package manager | pnpm | 9392 |
+| 15 |  [vitesse](https://github.com/antfu/vitesse) | 🏕 Opinionated Vite Starter Template | antfu | 340 |
+| 16 |  [pnpm](https://github.com/pnpm/pnpm) | 📦🚀 Fast, disk space efficient package manager | pnpm | 9393 |
 | 17 |  [Gitako](https://github.com/EnixCoda/Gitako) | 🐙 File tree extension for GitHub on Chrome &amp; Firefox &amp; Edge | EnixCoda | 898 |
-| 18 |  [graphiql](https://github.com/graphql/graphiql) | GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. | graphql | 11552 |
-| 19 |  [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge | type-challenges | 2701 |
-| 20 |  [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) | An extension for VS Code that visualizes data during debugging. | hediet | 6637 |
+| 18 |  [graphiql](https://github.com/graphql/graphiql) | GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. | graphql | 11554 |
+| 19 |  [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge | type-challenges | 2707 |
+| 20 |  [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) | An extension for VS Code that visualizes data during debugging. | hediet | 6638 |
 | 21 |  [github-url-detection](https://github.com/fregante/github-url-detection) | Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript. | fregante | 51 |
-| 22 |  [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications | chakra-ui | 13790 |
-| 23 |  [sweetalert](https://github.com/t4t5/sweetalert) | A beautiful replacement for JavaScript&#39;s &#34;alert&#34; | t4t5 | 21268 |
+| 22 |  [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications | chakra-ui | 13804 |
+| 23 |  [sweetalert](https://github.com/t4t5/sweetalert) | A beautiful replacement for JavaScript&#39;s &#34;alert&#34; | t4t5 | 21271 |
 | 24 |  [use-comments](https://github.com/beerose/use-comments) | React hook to effortlessly add a comment section to your website, and start the discussion on your content. | beerose | 120 |
 | 25 |  [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) | A collaboration application built with the twilio-video.js SDK and React.js | twilio | 1121 |
-| 26 |  [motion](https://github.com/framer/motion) | Open source, production-ready animation and gesture library for React | framer | 8838 |
-| 27 |  [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for forms validation (Web + React Native) | react-hook-form | 16567 |
+| 26 |  [motion](https://github.com/framer/motion) | Open source, production-ready animation and gesture library for React | framer | 8843 |
+| 27 |  [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for forms validation (Web + React Native) | react-hook-form | 16577 |
 | 28 |  [rfm](https://github.com/sospedra/rfm) | Request for maintainers explorer | sospedra | 15 |
 | 29 |  [boardgame.io](https://github.com/boardgameio/boardgame.io) | State Management for Turn-Based Games | boardgameio | 8373 |
-| 30 |  [i18n-ally](https://github.com/antfu/i18n-ally) | 🌍 All in one i18n extension for VS Code | antfu | 1299 |
+| 30 |  [i18n-ally](https://github.com/antfu/i18n-ally) | 🌍 All in one i18n extension for VS Code | antfu | 1300 |
 | 31 |  [vuefire](https://github.com/vuejs/vuefire) | 🔥 Firebase bindings for Vue.js &amp; Vuex | vuejs | 3056 |
 
 **[⬆ Back to Index](#-contents)**
@@ -485,16 +485,16 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome Github Profile READMEs 📝 | abhisheknaiidu | 4769 |
-| 2 |  [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) | Replacement icons for popular apps in the style of macOS Big Sur | elrumo | 3018 |
+| 1 |  [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome Github Profile READMEs 📝 | abhisheknaiidu | 4775 |
+| 2 |  [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) | Replacement icons for popular apps in the style of macOS Big Sur | elrumo | 3023 |
 | 3 |  [my-shop-demo](https://github.com/handred800/my-shop-demo) | 電商demo | handred800 | 1 |
 | 4 |  [PeriodicTable](https://github.com/sunaynas/PeriodicTable) | Sunayna&#39;s Periodic Table | sunaynas | 2 |
 | 5 |  [H2020](https://github.com/orangefruit21/H2020) | Web app for social survey | orangefruit21 | 2 |
 | 6 |  [AmongUsTracker](https://github.com/rwambacq/AmongUsTracker) | Simple game tracker for the steam game &#34;Among Us&#34; | rwambacq | 1 |
-| 7 |  [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io | hoppscotch | 26303 |
+| 7 |  [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io | hoppscotch | 26305 |
 | 8 |  [awesomejs.dev](https://github.com/Akryum/awesomejs.dev) | Find awesome packages for the framework you are using | Akryum | 170 |
-| 9 |  [Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) | A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input. | dhruvmisra | 188 |
-| 10 |  [intro-to-vue](https://github.com/sdras/intro-to-vue) | Workshop Materials for my Introduction to Vue.js Workshop | sdras | 2352 |
+| 9 |  [Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) | A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input. | dhruvmisra | 189 |
+| 10 |  [intro-to-vue](https://github.com/sdras/intro-to-vue) | Workshop Materials for my Introduction to Vue.js Workshop | sdras | 2353 |
 | 11 |  [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) | A Vue component to display an image gallery lightbox | pexea12 | 250 |
 | 12 |  [vue-kinesis](https://github.com/Aminerman/vue-kinesis) | Easily create complex interactive animations with Vue.js | Aminerman | 687 |
 | 13 |  [zarbo-UI](https://github.com/thierry-guedj/zarbo-UI) | Zarbo private art gallery Frontend | thierry-guedj | 1 |
@@ -508,7 +508,7 @@
 | 21 |  [iiitdmj-gpa](https://github.com/abhisheknaiidu/iiitdmj-gpa) | GPA Calculator + Quiz Bot for IIITDM Jabalpur | abhisheknaiidu | 15 |
 | 22 |  [vue-disqus](https://github.com/ktquez/vue-disqus) | Vue component to integrate Disqus count and comments in your application, with support for SPA | ktquez | 228 |
 | 23 |  [gitstalk](https://github.com/thelittlewonder/gitstalk) | Discover who&#39;s upto what on Github | thelittlewonder | 505 |
-| 24 |  [v-tooltip](https://github.com/Akryum/v-tooltip) | 💬 Easy tooltips, popovers, dropdown for Vue 2.x | Akryum | 1772 |
+| 24 |  [v-tooltip](https://github.com/Akryum/v-tooltip) | 💬 Easy tooltips, popovers, dropdown for Vue 2.x | Akryum | 1773 |
 | 25 |  [vue2-transitions](https://github.com/BinarCode/vue2-transitions) | ✨ Reusable Vue 2 transition components | BinarCode | 691 |
 | 26 |  [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) | :fish_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable | euvl | 816 |
 | 27 |  [cccatalog-frontend](https://github.com/creativecommons/cccatalog-frontend) | CC Search is a search tool for CC-licensed and public domain content across the internet. | creativecommons | 157 |
