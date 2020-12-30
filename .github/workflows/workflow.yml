@@ -17,5 +17,5 @@ jobs:
         run: 'npm install --global stargazed'
       - name: 'Update Repo'
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username  "abhisheknaiidu" --token ${GITHUB_TOKEN} --repo "nads" --message "stargazed update by GitHub Actions Workflow" --sort'
+          NADS: '${{ secrets.NADS }}'
+        run: 'stargazed --username  "abhisheknaiidu" --token ${NADS} --repo "nads" --message "stargazed update by GitHub Actions Workflow" -s -w'
